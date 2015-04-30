@@ -7,3 +7,10 @@ up-to-date with your remote repository?
 So I can pull changes that I want and not all changes.
 
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+ forks are the copies of other repositories that GitHub makes on the server ;
+ clones are the copies of other repositories that Git makes on your computer;
+ branches are different path.  
+
+
