@@ -13,27 +13,31 @@ the working directory has got all files; the repository has got files that I com
 
 How can you use the staging area to make sure you have one commit per logical change?
 
-
+By using git diff --staged
 
 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 
+Branches would be helpful when I want to mantain original version of the file and I want to create another version of the same file with some changes.
+
 
 
 How do the diagrams help you visualize the branch structure?
 
 
+The diagrams help me because I can visualize the history of the branches 
 
 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do? 
 
 
+The file will have got changes of both branches.
 
 
+What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually? 
 
 
