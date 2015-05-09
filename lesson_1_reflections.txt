@@ -30,5 +30,9 @@ I can use git log to have the ID and I can use git diff to view the differences 
 
 How might using version control make you more confident to make changes that could break something?
 
+I can go back to previous version
+
 
 Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like using Git for my next projects
