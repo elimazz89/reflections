@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-It appears the .git directory and I need to do it because I can commit
+It appears the .git directory and I need to do it because I can take files that I want to starting my contribute on them
 
 
 
@@ -39,5 +39,5 @@ The file will have got changes of both branches.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges manually? 
 
-
+Doing merges manually allows you to decide what commits and no
 
